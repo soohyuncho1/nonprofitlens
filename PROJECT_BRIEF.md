@@ -1,8 +1,3 @@
-# NonprofitLens — Project Brief
-
-**DSCI 305: Data Across Domains | Final Project | Spring 2026**
-
----
 
 ## 1. Project Overview
 
@@ -42,8 +37,5 @@ The impact is bounded by what the tool deliberately does not do. NonprofitLens d
 The tool processes no personal data, transmits no information off-device, and stores nothing. It is licensed MIT, hosted on public GitHub Pages, and designed in compliance with Rice University's academic integrity standards. All external sources (benchmarks, framework references, academic citations) are credited in the methodology panel and the repository README.
 
 ---
-
-**Word count: approximately 920 words.**
-
 **Primary framework:** NIST AI Risk Management Framework (2023).
 **Supporting references:** ACM Code of Ethics (2018); Obermeyer et al. (2019); Buolamwini & Gebru (2018).
